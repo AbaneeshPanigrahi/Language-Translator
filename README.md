@@ -1,5 +1,3 @@
-Here is a simple text-only README file:
-
 ---
 
 # Language Translator
